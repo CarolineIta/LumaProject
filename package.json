@@ -7,7 +7,7 @@
     "cy:open": "npx cypress open",
     "cy:run": "npx cypress run"
   },
-  "author": "",
+  "author": "Caroline Ita",
   "license": "ISC",
   "devDependencies": {
     "@faker-js/faker": "^8.1.0",
